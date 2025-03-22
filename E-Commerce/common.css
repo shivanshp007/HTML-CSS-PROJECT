@@ -1,0 +1,38 @@
+/* widht for logo ans search bar */
+.next-row{
+    clear: both;
+}
+.wid-25 {
+    width: 25%;
+
+}
+
+.wid-50 {
+    width: 50%;
+
+}
+
+.arrenge-left {
+    float: left;
+}
+
+.common-btn {
+    height: 41px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    min-width: 21%;
+    text-align: center;
+    color: #d19c97;
+}
+
+.common-btn span {
+    font-size: 24px;
+    font-weight: 1000;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.select-product {
+    text-align: right;
+}
