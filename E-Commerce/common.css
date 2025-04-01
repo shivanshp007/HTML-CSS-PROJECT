@@ -11,6 +11,15 @@
     width: 50%;
 
 }
+.wid-75 {
+    
+    width: 70%;
+}
+
+.wid-33{
+    width: 33.33%;
+}
+
 
 .arrenge-left {
     float: left;
@@ -36,3 +45,5 @@
 .select-product {
     text-align: right;
 }
+
+ 
